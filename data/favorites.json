@@ -1,0 +1,100 @@
+{
+    "content": [
+    {
+      "id": 1,
+      "author": {
+        "name": "Marshall Gitller",
+        "image": "/img/saved/second_bl_face.svg"
+      },
+      "links": [
+        {
+          "time": "2019-06-21T19:10",
+          "text": "Marshall Gittler's Market Outlook: USD up, EUR down on risk-off; UK CPI, FOMC minutes",
+          "link": "#"
+        },
+        {
+          "time": "2019-06-21T19:10",
+          "text": "Endurance is one of the most important qualities of a trader",
+          "link": "#"
+        },
+        {
+          "time": "2019-06-21T19:10",
+          "text": "Precious metals prices are being corrected Tuesday morning. Go on looking for good sell prices",
+          "link": "#"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "author": {
+        "name": "Marshall Gitller",
+        "image": "/img/saved/first_bl_face.svg"
+      },
+      "links": [
+        {
+          "time": "2019-06-21T19:10",
+          "text": "Marshall Gittler's Market Outlook: USD up, EUR down on risk-off; UK CPI, FOMC minutes",
+          "link": "#"
+        },
+        {
+          "time": "2019-06-21T19:10",
+          "text": "Endurance is one of the most important qualities of a trader",
+          "link": "#"
+        },
+        {
+          "time": "2019-06-21T19:10",
+          "text": "Precious metals prices are being corrected Tuesday morning. Go on looking for good sell prices",
+          "link": "#"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "author": {
+        "name":"Marshall Gitller",
+        "image": "/img/saved/second_bl_face.svg"
+      },
+      "links": [
+        {
+          "time": "2019-06-21T19:10",
+          "text": "Marshall Gittler's Market Outlook: USD up, EUR down on risk-off; UK CPI, FOMC minutes",
+          "link": "#"
+        },
+        {
+          "time": "2019-06-21T19:10",
+          "text": "Endurance is one of the most important qualities of a trader",
+          "link": "#"
+        },
+        {
+          "time": "2019-06-21T19:10",
+         "text": "Precious metals prices are being corrected Tuesday morning. Go on looking for good sell prices",
+          "link": "#"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "author": {
+        "name": "Marshall Gitller",
+        "image": "/img/saved/first_bl_face.svg"
+      },
+      "links": [
+        {
+          "time": "2019-06-21T19:10",
+          "text": "Marshall Gittler's Market Outlook: USD up, EUR down on risk-off; UK CPI, FOMC minutes",
+          "link": "#"
+        },
+        {
+          "time": "2019-06-21T19:10",
+          "text": "Endurance is one of the most important qualities of a trader",
+          "link": "#"
+        },
+        {
+          "time": "2019-06-21T19:10",
+          "text": "Precious metals prices are being corrected Tuesday morning. Go on looking for good sell prices",
+          "link": "#"
+        }
+      ]
+    }
+  ]
+}

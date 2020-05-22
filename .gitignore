@@ -1,0 +1,19 @@
+# dependencies
+node_modules
+
+# logs
+npm-debug.log
+
+# Nuxt build
+.nuxt
+
+# Nuxt generate
+dist
+
+/nbproject
+/.project
+/.nbproject
+/.idea
+/.vscode
+/.rsync_cache
+/.sass-cache

@@ -1,0 +1,100 @@
+{
+   "records": [
+        {
+          "id": 1,
+          "image": "/img/blogs-img/first_bl.svg",
+          "header": "Marshall Gittler's Market Outlook: USD up, EUR down on risk-off; UK CPI, FOMC minutes",
+          "preview": "A typical “risk off” profile to the FX market: CHF and JPY were the two best-performing currencies, while the commodity currencies were the biggest losers. ",
+          "author": {
+            "name": "Marshall Gittler",
+            "avatar":  "/img/blogs-img/second_bl_face.svg"
+          },
+          "views": 4238,
+          "published": "2019-10-20 11:30"
+        },
+        {
+          "id": 2,
+          "image": "/img/blogs-img/second_bl.svg",
+          "header": "Endurance is one of the most important qualities of a trader",
+          "preview": "When a trend dominates the market, few doubt who controls the situation.",
+          "author": {
+            "name": "Mikhail Hyipov",
+            "avatar":"/img/blogs-img/first_bl_face.svg"
+          },
+          "views": 3800,
+          "published": "2019-10-20 11:30"
+        },
+           {
+          "id": 3,
+          "image": "/img/blogs-img/third_bl.svg",
+          "header": "Precious metals prices are being corrected Tuesday morning. Go on looking for good sell prices",
+          "preview": "WTI, XAUUSD, XAGUSD.",
+          "author": {
+            "name": "Alex Rodiоnov",
+            "avatar":"/img/blogs-img/third_bl_face.svg"
+          },
+          "views": 12000,
+          "published": "2019-10-20 11:30"
+        },
+        {
+          "id": 4,
+          "image": "/img/blogs-img/fourth.svg",
+          "header": "Reduced risks of the trade war between the USA and China sent EUR/USD down to the lowest level since December",
+          "preview": "When a trend dominates the market, few doubt who controls the situation.",
+          "author": {
+            "name": "Alex Rodiоnov",
+            "avatar":"/img/blogs-img/first_bl_face.svg"
+          },
+          "views": 12000,
+          "published": "2019-10-20 11:30"
+        },
+            {
+          "id": 5,
+          "image": "/img/blogs-img/first_bl.svg",
+          "header": "Marshall Gittler's Market Outlook: USD up, EUR down on risk-off; UK CPI, FOMC minutes",
+          "preview": "A typical “risk off” profile to the FX market: CHF and JPY were the two best-performing currencies, while the commodity currencies were the biggest losers. ",
+          "author": {
+            "name": "Marshall Gittler",
+            "avatar":  "/img/blogs-img/first_bl_face.svg"
+          },
+          "views": 4238,
+          "published": "2019-10-20 11:30"
+        },
+        {
+          "id": 6,
+          "image": "/img/blogs-img/second_bl.svg",
+          "header": "Endurance is one of the most important qualities of a trader",
+          "preview": "When a trend dominates the market, few doubt who controls the situation.",
+          "author": {
+            "name": "Mikhail Hyipov",
+            "avatar":"/img/blogs-img/second_bl_face.svg"
+          },
+          "views": 3800,
+          "published": "2019-10-20 11:30"
+        },
+           {
+          "id": 7,
+          "image": "/img/blogs-img/third_bl.svg",
+          "header": "Precious metals prices are being corrected Tuesday morning. Go on looking for good sell prices",
+          "preview": "WTI, XAUUSD, XAGUSD.",
+          "author": {
+            "name": "Alex Rodiоnov",
+            "avatar":"/img/blogs-img/third_bl_face.svg"
+          },
+          "views": 12000,
+          "published": "2019-10-20 11:30"
+        },
+             {
+          "id": 8,
+          "image": "/img/blogs-img/fourth.svg",
+          "header": "Precious metals prices are being corrected Tuesday morning. Go on looking for good sell prices",
+          "preview": "WTI, XAUUSD, XAGUSD.",
+          "author": {
+            "name": "Alex Rodiоnov",
+            "avatar":"/img/blogs-img/first_bl_face.svg"
+          },
+          "views": 12000,
+          "published": "2019-10-20 11:30"
+        }
+      ]
+}

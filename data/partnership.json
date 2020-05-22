@@ -1,0 +1,95 @@
+{
+"story": {
+    "title": "The story of one representative",
+    "description": "In 2005, fast rich schemes were popular in Malaysia, I tried to invest in it, but it burned out. After several failures, I decided to try Forex trading. At that time, nobody in Malaysia was interested in this, and I had to search all the information from the Internet.</br><div class=\"vbindclass\"> In 2007 LiteForex came to Malaysia as pioneer in providing forex brokerage and trading system. LiteForex became one of most popular brokers in Malaysia because it has good support from HQ and management team in out country </div>",
+    "programs": [
+      {
+        "name": "Revenue Share",
+        "description": "The Revenue Share program yields the highest possible remuneration in the market: up to $15 per trade conducted by a referral as well as 10% of your sub-partner’s profits"
+      },
+      {
+        "name": "CPS",
+        "description": "With CPS program you get the biggest partner remuneration provided all conditions are met — $50 for each client (referral), as well as 10% from the income of your sub-partner"
+      } 
+    ],
+    "author": {
+      "name": "Ahmad Sami Samsudin",
+      "avatar":  "/partnership/story-partnership-avatar.png",
+      "description": "LiteForex partner in Malasiya"    
+    }
+},
+"content": {
+  "sections": [
+    {
+      "title": "Carrier with Liteforex",
+      "text":  "I started my carrier with LiteForex as a forum CLIENT SUPPORT at CARIGOLD Online FORUM. After 3 years worked as forum client support,I was offered to fully in charge LiteForex Malaysia as Regional Manager.We met all LiteForex top management in Singapore Forex Expo for hand over ceremony.",
+      "image": "/partnership/carrier-img.jpg",
+      "imageText": "В век капитализма и сильной конкуренции, каждый крутится и вертится как может. Кто-то головой, кто-то на шесте."
+    },
+    {
+      "title": "How to promo your work?",
+      "text": "From the first day we started active promo of Liteforex in Malaysia — launching Great Hundred Contest. <br> <span class=\"mt-Malaysia\"> This is the one and only contest in Malaysia with Grand Prize 1-unit branded car exclusively for Malaysian clients only. This is the difference with others broker which offering car to worldwide and of course it`s reducing chances for Malaysian to win it.</span>",
+      "quote": "The respond for this contest was overwhelming and fantastic."
+    },
+    {
+      "text": "Since then we already handed over 5 units car worth more than RM500000 to Malaysian client over 5 seasons of the contest. Now Great Hundred Season 6 offering 5 units Perodua Axia. Great Hundred contest is very important to us as it become our trademark and showing our deep heart appreciating our client in Malaysia.",
+      "image": "/partnership/carrier-img-3.jpg"
+    },
+    {
+      "imageList": ["/partnership/carrier-img-2.jpg", "/partnership/carrier-img-2.jpg"],
+      "imageText": "В век капитализма и сильной конкуренции"
+    },
+    {
+      "title": "How much income?",
+      "text": "We have many examples of successful partner who earned average more than USD 10000 per week from his network client trading.",
+      "quote": "Affiliate payout is high - up to $ 39 per lot."
+    },
+    {
+      "title": "Top Affiliates over the past year",
+      "affiliates": [
+        {
+          "flag": "/partnership/malaysia.jpg",
+          "name": "Malaysia",
+          "amount": "27.000.000$"
+        },
+        {
+          "flag": "/partnership/nigeria.jpg",
+          "name": "<div class=\"v-html-Nigeria\">Nigeria</div>",
+          "amount": "8.000.000$"
+        },
+        {
+          "flag": "/partnership/nicaragua.jpg",
+          "name": "Nicaragua",
+          "amount": "12.000.000$"
+        }
+      ]
+    },
+    {
+      "text": "Besides getting a big payout from affiliate programs our partners also enjoying my masterpiece Monthly Salary and Incentive programs."
+    },
+    {
+      "title": "Сontinuous development",
+      "text": "We have many examples of successful partner who earned average more than USD 10000 per week from his network client trading.",
+      "quote": "Our client support is very strong in all this region and keep on increasing volume of sales from time to time."
+    },
+    {
+      "text": "My current position now is President of Asia Pacific and my task become more challenging to explore and finding new network and team in many more Asia Pacific region.",
+      "imageList": ["/partnership/carrier-img-4.jpg","/partnership/carrier-img-4.jpg"],
+      "imageText":"В век капитализма и сильной конкуренции"
+    },
+    {
+      "title": "Why do you like to work with us?",
+      "text": "You will always get full support from Liteforex team every time you need. My superior our Grand Director and CEO always ready 24/7 to answer and fulfill all my needed.",
+      "quote": "Our relationship not just Liteforex staff because its beyond that more like family bonding."
+    },
+    {
+      "title": "Affiliate programs department",
+      "text": "<div>Working hours:</div><div class=\"addiliate\">9 a.m. - 6 p.m.(GMT +2) <span class=\"light-addiliate\">(Monday to Friday)</span></div><div>Email:</div><div class=\"addiliate\">partner@liteforex.com</div><div>Skype:</div><div class=\"addiliate\">affiliate_liteforex</div>",
+      "imageList": ["/partnership/affiliate-img.jpg","/partnership/affiliate-img.jpg"],
+      "imageText": "В век капитализма и сильной конкуренции"
+    }
+  ]
+}
+
+
+}

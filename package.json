@@ -1,0 +1,53 @@
+{
+  "name": "storybook-test",
+  "version": "1.0.0",
+  "description": "Nuxt.js project",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
+    "precommit": "npm run lint",
+    "prod": "pm2 startOrRestart ecosystem.config.js --name litefinance-frontend-v2:3334",
+    "stop": "pm2 stop ecosystem.config.js --name litefinance-frontend-v2:3334",
+    "storybook": "start-storybook -s ./static -p 9001"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.27",
+    "@fortawesome/free-solid-svg-icons": "^5.12.1",
+    "@fortawesome/vue-fontawesome": "^0.1.9",
+    "@nuxtjs/axios": "^5.9.5",
+    "@nuxtjs/pwa": "^2.6.0",
+    "@nuxtjs/style-resources": "^1.0.0",
+    "cookie": "^0.4.1",
+    "cross-env": "^7.0.0",
+    "element-ui": "^2.13.0",
+    "flickity-imagesloaded": "^2.0.0",
+    "moment": "^2.24.0",
+    "nuxt": "^2.11.0",
+    "nuxt-buefy": "^0.3.23",
+    "nuxt-fontawesome": "^0.4.0",
+    "nuxt-rfg-icon": "^0.6.4",
+    "nuxt-start": "^2.11.0",
+    "sqlite": "^4.0.7",
+    "sqlite3": "^4.1.1",
+    "uuid": "^8.0.0",
+    "vue-awesome-swiper": "^3.1.3",
+    "vue-flickity": "^1.2.1"
+  },
+  "devDependencies": {
+    "@storybook/vue": "^5.2.8",
+    "babel-eslint": "^10.0.3",
+    "babel-preset-vue": "^2.0.2",
+    "eslint": "^6.8.0",
+    "eslint-friendly-formatter": "^4.0.1",
+    "eslint-loader": "^3.0.3",
+    "eslint-plugin-vue": "^6.2.1",
+    "node-sass": "^4.14.1",
+    "sass-loader": "^8.0.2",
+    "vue-loader": "^15.9.1",
+    "vue-template-compiler": "^2.6.11"
+  }
+}

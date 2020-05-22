@@ -1,0 +1,27 @@
+<template>
+<div style="display: flex; align-items: flex-end; justify-content: center; border: 1px solid red;">
+         <div class="theman">
+            <img src="/img/img_acter.jpg" class="theman_Broker" style="border: 1px solid red;"/>
+            <div class="textman"></div>
+          </div>
+</div>
+</template>
+
+<style>
+.theman_Broker {
+  vertical-align: bottom;
+  width: 100%;
+  position: relative;
+  z-index: 1;
+}
+.theman {
+  width: 300px;
+  margin: 0 auto;
+}
+@media (max-width: 600px) {
+  .theman {
+    width: 300px;
+    margin: 0 auto;
+  }
+}
+</style>
